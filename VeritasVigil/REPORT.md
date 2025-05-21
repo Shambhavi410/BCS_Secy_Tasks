@@ -55,7 +55,6 @@ Both Naive Bayes and SVM classifiers performed well using this custom setup.
 * However, the custom tokenizer and lemmatizer capture specific language patterns in fake news that standard tools often miss.
 * Custom preprocessing adds interpretability and may improve detection of nuanced fake news examples.
 
----
 
 4. Visualizations
 
