@@ -1,3 +1,6 @@
+Link to Colab file:
+https://drive.google.com/file/d/1bTQbMuR-0o4zJ1PFqoIFqMuorwFW_IyJ/view?usp=sharing
+
 This project implements a Q-learning reinforcement learning agent to navigate a custom maze environment. 
 The agent, representing Harry Potter, must reach a Cup while avoiding a Death Eater who uses a BFS strategy to chase him.
 
